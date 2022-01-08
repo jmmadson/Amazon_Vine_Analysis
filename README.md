@@ -12,8 +12,11 @@ From my analysis I uncovered:
 <li>Vine reviews accounted for 0.5% of Five Star reviews, while Non-Vine reviews accounted for 99.5% of all five star reviews as shown below in Example B.</li>
 </ul>
 
+Example A. Five Star Review Counts for Vine and Non-Vine Reviews
 ![Example A. Total Vine & Non Vine Reviews](https://github.com/jmmadson/Amazon_Vine_Analysis/blob/main/Images/Paid_vs_Unpaid%20Count.png?raw=true)
 <br> 
+
+Example B. Five Star Review % for Vine and Non-Vine Reviews
 ![Example B. Vine & Non Vine Review %](https://github.com/jmmadson/Amazon_Vine_Analysis/blob/main/Images/Paid_Vs_UnPaid.png?raw=true)
 <br>
 ## Summary
